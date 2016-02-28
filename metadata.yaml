@@ -1,0 +1,23 @@
+_repo: Twilight-and-Dawn-Or-Simple-Talks-on-the-Six-Days-of-Creation_8156
+creator:
+  author:
+    agent_name: Pridham, Caroline
+    aliases:
+    - Wait, L. G., Mrs.
+    - Wait, Mrs. L. G.
+    gutenberg_agent_id: '2671'
+    url: http://www.gutenberg.org/2009/agents/2671
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Creation -- Juvenile literature'
+- !lcc 'BS'
+title: Twilight and Dawn; Or, Simple Talks on the Six Days of Creation
+url: http://www.gutenberg.org/ebooks/8156
