@@ -1,4 +1,8 @@
 _repo: Twilight-and-Dawn-Or-Simple-Talks-on-the-Six-Days-of-Creation_8156
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pridham, Caroline
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2671'
     url: http://www.gutenberg.org/2009/agents/2671
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8156#Twilight-and-Dawn-Or-Simple-Talks-on-the-Six-Days-of-Creation
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
